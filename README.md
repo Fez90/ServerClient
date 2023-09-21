@@ -1,1 +1,1 @@
-# ServerClient
+Creating a single client/server connection. When the client connects, the server reads any incoming data as text and prints it out one line at a time.  If the server receives the string “shutdown”, then it closes the socket and exits.
